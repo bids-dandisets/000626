@@ -3,8 +3,6 @@ dataset_description.json
 participants.tsv
 participants.json
 derivatives/dataset_description.json
-sub-monk+g/sub-monk+g_sessions.tsv
-sub-monk+g/sub-monk+g_sessions.json
-sub-monk+g/ses-session8/ecephys/sub-monk+g_ses-session8_events.tsv
-sub-monk+g/ses-session8/ecephys/sub-monk+g_ses-session8_events.json
-sub-monk+g/ses-session8/ecephys/sub-monk+g_ses-session8_ecephys.nwb
+sub-monk+g/ecephys/sub-monk+g_events.tsv
+sub-monk+g/ecephys/sub-monk+g_events.json
+sub-monk+g/ecephys/sub-monk+g_ecephys.nwb

@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Captured originally with a MaxWell BioSystems CMOS-based High-Density Microelectrode Array.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Blauvelt, Lon"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
